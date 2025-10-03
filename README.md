@@ -1,2 +1,2 @@
 # Projects
-[Day 01](day_01/README.md)
+[Day 01](day_01/Password Generator.py)
